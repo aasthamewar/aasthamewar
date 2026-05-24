@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Aastha+;Full+Stack+Developer+%7C+AI+Enthusiast;Building+AI+Applications+with+LLMs+RAG+and+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Aastha+;Full+Stack+Developer+%7C+AI+Enthusiast;Building+AI+Applications+with+LLMs+RAG+and+Automation" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -368,7 +368,7 @@ for category, projects in current_projects.items():
 
 <div align="center">
 
-I'm always excited to collaborate on innovative projects, especially in **AI/ML**, **Language Models**, **FinTech**, and **Full Stack Development**. Feel free to reach out!
+I'm always excited to collaborate on innovative projects, especially in **AI/ML**, **Language Models**, and **Full Stack Development**. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aastha-354827323/)
 
