@@ -267,7 +267,7 @@ Educational resource featuring fundamental data structures and algorithms with d
 
 ---
 
-## 📝 Latest Blog Posts
+
 
 <!-- BLOG-POST-LIST:START -->
 <!-- I regularly write about technology, programming, and problem-solving on my blog [GeekTech](https://geektech1717.blogspot.com/). Topics include:
