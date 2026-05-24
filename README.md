@@ -255,7 +255,7 @@ Educational resource featuring fundamental data structures and algorithms with d
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/graph.png" width="48" height="48" alt="DSA"/>
       <br><strong>Algorithms & DSA</strong>
-      <br><sub>500+ Problems Solved</sub>
+      <br><sub>250+ Problems Solved</sub>
     </td>
     <!-- <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/stocks.png" width="48" height="48" alt="FinTech"/>
