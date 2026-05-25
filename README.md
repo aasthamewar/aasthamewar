@@ -24,7 +24,7 @@ class Aastha:
         self.location = "Delhi, India"
         self.education = "Student"
         self.interests = ["AI/ML", "LLMs & RAG", "Full Stack Development", "Generative AI", "Competitive Programming"]
-        self.currently_working_on = ["LLM & RAG Applications", "Full Stack AI Projects", "Backend Development", "Portfolio & AI Research Projects"]
+        self.currently_working_on = ["LLM & RAG Applications", "Full Stack AI Projects", "Backend Development"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
